@@ -32,3 +32,8 @@
     display: block;
   }
 }
+
+.text-title-body {
+  font-weight: bolder;
+  font-size: 1em;
+  float: left
