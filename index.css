@@ -32,8 +32,12 @@
     display: block;
   }
 }
+.body {
+ display: flex; 
+}  
 
 .text-body {
+  font-size: 6em;
   float: left;
 }
 
