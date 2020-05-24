@@ -63,3 +63,11 @@
 .logo {
   display: grid;
 }
+
+.text {
+  float: left;
+}
+
+.logo-div {
+  float: left;
+}
