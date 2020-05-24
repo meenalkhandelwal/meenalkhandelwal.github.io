@@ -33,13 +33,9 @@
   }
 }
 
-#page-container {
-  position: relative;
-  min-height: 100vh;
-}
-
 .main-image {
   float: right;
+  margin-right: 40px;
 }
 
 .footer {
@@ -52,14 +48,9 @@
   color: white;
 }
 
-.logo {
-  display: grid;
-}
-
 .text {
-  float: left;
   font-size: 26px;
-  float: left;
+  width: 50%;
 }
 
 .logo-div {
