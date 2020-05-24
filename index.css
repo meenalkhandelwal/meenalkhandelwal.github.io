@@ -22,7 +22,7 @@
 
 /* Current/active navbar link */
 .active {
-  background-color: #4CAF50;
+  background-color: #4caf50;
 }
 
 /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
@@ -33,9 +33,8 @@
   }
 }
 .body {
- display: flex; 
-  body  padding-bottom: 2.5rem;    /* Footer height */
-}  
+  display: flex;
+}
 
 #page-container {
   position: relative;
@@ -48,8 +47,8 @@
 }
 
 .image-body {
- float: right; 
-}  
+  float: right;
+}
 
 .footer {
   position: fixed;
@@ -59,4 +58,8 @@
   width: 96%;
   background-color: #555;
   color: white;
+}
+
+.logo {
+  display: grid;
 }
