@@ -34,6 +34,7 @@
 }
 .body {
  display: flex; 
+  body  padding-bottom: 2.5rem;    /* Footer height */
 }  
 
 #page-container {
