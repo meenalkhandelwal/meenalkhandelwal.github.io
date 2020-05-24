@@ -51,6 +51,8 @@
 .text {
   font-size: 26px;
   width: 40%;
+  margin-left: 40px;
+  margin-top: 30px;
 }
 
 .logo-div {
