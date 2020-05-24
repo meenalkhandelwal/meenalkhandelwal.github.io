@@ -32,21 +32,13 @@
     display: block;
   }
 }
-.body {
-  display: flex;
-}
 
 #page-container {
   position: relative;
   min-height: 100vh;
 }
 
-.text-body {
-  font-size: 26px;
-  float: left;
-}
-
-.image-body {
+.main-image {
   float: right;
 }
 
@@ -65,6 +57,8 @@
 }
 
 .text {
+  float: left;
+  font-size: 26px;
   float: left;
 }
 
